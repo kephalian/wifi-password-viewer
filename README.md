@@ -1,10 +1,10 @@
-# wifi-password-viewer
+# wifi-password-retiever
 Lookup all saved wifi passwords on a Windows system Needs Administrator privileges 
 
 Look for a stand alone exe file in Release section!!
 
 
-# Wi-Fi Password Viewer
+# Wi-Fi Password Retriever
 
 A Python application that retrieves saved Wi-Fi passwords on a Windows system and displays them in a user-friendly GUI built with PySide6.
 
