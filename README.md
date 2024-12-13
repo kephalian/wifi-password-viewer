@@ -5,8 +5,7 @@ Lookup all saved wifi passwords on a Windows system Needs Administrator privileg
 
 A Python application that retrieves saved Wi-Fi passwords on a Windows system and displays them in a user-friendly GUI built with PySide6.
 
-
----
+[https://github.com/kephalian/wifi-password-viewer/blob/main/view-all-saved-wifi-passwords.py]
 
 Features
 
