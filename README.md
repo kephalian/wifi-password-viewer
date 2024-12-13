@@ -41,9 +41,8 @@ Usage
 
 1. Clone the repository:
 
-git clone https://github.com/your_username/wifi-password-viewer.git
-cd wifi-password-viewer
-
+git clone 
+https://github.com/kephalian/wifi-password-viewer/tree/main
 
 2. Run the script:
 
