@@ -96,7 +96,7 @@ Example Output
 
 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache License. See the LICENSE file for details.
 
 
 ---
@@ -106,7 +106,4 @@ Disclaimer
 This script is designed for educational purposes and should only be used on systems you own or have explicit permission to access. Misuse of this script may violate laws or terms of service. Use responsibly!
 
 
----
-
-Feel free to modify or contribute to the project. Let me know if additional details are required!
 
